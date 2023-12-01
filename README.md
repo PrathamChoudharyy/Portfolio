@@ -1,32 +1,70 @@
-# Portfolio
+# Getting Started with Create React App
 
-![favicon](https://github.com/PrathamChoudharyy/Portfolio/assets/114939653/8160f080-5a08-4bb7-baa9-de2d1a8fc121)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-Welcome to my portfolio, a dynamic showcase of my skills and projects crafted with precision using React.js, Bootstrap, HTML, CSS, and JavaScript. With a focus on responsive design, this portfolio adapts seamlessly to various screen sizes, ensuring an optimal viewing experience across devices.
+In the project directory, you can run:
 
-Key Features:
+### `npm start`
 
-React.js Integration: The use of React.js brings dynamic and interactive elements to the forefront, creating a smooth and engaging user experience. The portfolio is not just a static display but an interactive journey through my projects and accomplishments.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Bootstrap for Streamlined Design: Leveraging the power of Bootstrap, the design is not only visually appealing but also follows best practices for a clean and modern appearance. The grid system ensures a well-organized layout, while Bootstrap components enhance usability.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-HTML and CSS Excellence: The foundation of this portfolio lies in the clean and semantic HTML structure, coupled with finely-tuned CSS styles. This combination ensures not only a visually pleasing presentation but also optimal performance and accessibility.
+### `npm test`
 
-JavaScript Dynamics: Harnessing the power of JavaScript, this portfolio goes beyond static content. Explore seamless transitions, interactive components, and a user-friendly interface that responds intuitively to user actions, enhancing the overall user experience.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Responsive Design: In today's multi-device world, responsiveness is key. Your portfolio seamlessly adapts to different screen sizes, be it a desktop, tablet, or smartphone. This ensures that visitors can explore your work effortlessly, no matter how they access your portfolio.
+### `npm run build`
 
-Explore My Work:
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Projects Showcase: Dive into a curated selection of my projects, each presented with detailed information on technologies used, challenges overcome, and the impact of the project.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Skills and Technologies: A comprehensive list of my skills and the technologies I specialize in. Whether it's React.js, Bootstrap, or other tools, this section provides a snapshot of my technical expertise.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-JavaScript Proficiency: Discover my proficiency in JavaScript, the language that adds life to web applications. Whether it's crafting dynamic interfaces, implementing client-side logic, or optimizing performance, JavaScript plays a crucial role in bringing my projects to life.
+### `npm run eject`
 
-About Me: Get to know the person behind the code. The "About Me" section offers insights into my background, passion for coding, and the driving force behind my projects.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Contact Information: Interested in collaboration or just want to connect? Find my contact information easily accessible, inviting visitors to reach out with any inquiries.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-In crafting this portfolio, I aimed not only to showcase my technical proficiency but also to create an engaging and user-friendly experience. Explore my work, discover my skills, and feel free to reach out with any questions or opportunities. Thank you for visiting!
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
